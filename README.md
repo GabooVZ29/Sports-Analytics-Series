@@ -1,24 +1,33 @@
-Sports Analytics Series
+⚽ Sports Analytics Series
 
-Bienvenido a Sports Analytics Series, un espacio dedicado al análisis profundo de datos deportivos y la evaluación de la eficiencia de equipos y atletas. Este repositorio centraliza todos los proyectos donde combinamos estadísticas, finanzas y rendimiento para entender qué mueve realmente el juego detrás de los números.
+Serie de proyectos de Data Analytics aplicada al deporte, enfocada en entender la relación entre inversión, estrategia y rendimiento.
 
-🚀 Propósito de la serie
-Explorar cómo el gasto, la estrategia y el desempeño impactan los resultados deportivos.
+El objetivo es responder preguntas reales de negocio usando datos:
+¿qué tan eficiente es el gasto en resultados deportivos?
 
-Aplicar técnicas de Data Analytics y Machine Learning a datasets de fútbol, béisbol y otros deportes.
+📊 Proyectos incluidos
 
-Generar insights claros y visualizaciones profesionales que sean útiles tanto para fanáticos como para analistas.
-Construir un portafolio sólido de proyectos de Sports Analytics, listo para LinkedIn, GitHub y presentaciones profesionales.
+🏟️ Manchester United – Spending vs Performance
+Análisis de la relación entre gasto en fichajes y puntos en Premier League.
+Dataset construido con web scraping + fuentes públicas
 
-🏆 Qué encontrarás en esta serie
+Métrica principal: costo por punto (€/point)
 
-Análisis por equipo: eficiencia financiera, rendimiento histórico y rankings de managers.
-Comparativos entre ligas y deportes: métricas consistentes para entender la relación inversión vs desempeño.
-Visualizaciones impactantes: gráficos de correlación, barras, scatter plots y dashboards interactivos.
+Análisis de eficiencia de inversión vs rendimiento
 
-Código reproducible: notebooks en Python con pandas, matplotlib y otros recursos de análisis.
+Stack: Python, Pandas, Matplotlib
 
-💡 Filosofía
-Los números cuentan la historia que a veces los ojos no ven. Aquí no solo mostramos datos: los interpretamos, los contextualizamos y los transformamos en decisiones y conocimiento. Cada proyecto es una pieza de un portafolio que demuestra capacidad analítica, rigor metodológico y pasión por los deportes.
+⚾ MLB Payroll vs Performance (1995–2024)
 
-💾 Repositorio en constante crecimiento: nuevos equipos, deportes y datasets se agregan regularmente, formando una biblioteca completa de Sports Analytics.
+Comparación entre payroll y resultados en MLB.
+Equipos analizados:
+Yankees
+Dodgers
+Giants
+Rays
+
+Correlación entre gasto y victorias en temporada regular
+Análisis de eficiencia de distintos modelos de gestión
+Insight clave: el gasto influye en rendimiento regular, pero no garantiza campeonatos.
+
+Stack: Python, Pandas
