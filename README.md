@@ -31,3 +31,7 @@ Análisis de eficiencia de distintos modelos de gestión
 Insight clave: el gasto influye en rendimiento regular, pero no garantiza campeonatos.
 
 Stack: Python, Pandas
+
+📌 Nota
+
+Algunos datasets fueron construidos o enriquecidos manualmente a partir de múltiples fuentes públicas debido a la falta de datasets estructurados.
